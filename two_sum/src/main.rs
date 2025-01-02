@@ -1,3 +1,5 @@
+use two_sum::test_code;
+
 fn main() {
-    println!("Hello, world!");
+    test_code();
 }
